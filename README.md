@@ -56,6 +56,8 @@ Facial-Expression-Recognition/
    git clone https://github.com/your-username/Facial-Expression-Recognition.git
    cd Facial-Expression-Recognition
 
+Download models from Doogle drive link (https://drive.google.com/drive/folders/1pbWGr683kPxSSY2lPIuDl6_s7_HG-YCq?usp=drive_link)
+
 ## 🔧 Running the Real-Time App
 
 streamlit run streamlit_fer_webcam.py
